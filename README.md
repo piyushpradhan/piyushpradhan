@@ -44,8 +44,3 @@ I'm an Android Developer 👨‍💻, struggling with competitive programming, e
 <a href="https://twitter.com/piyushpradhan07">
   <img align="left" alt="Jaskirat's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
 </a>
-
-<br />
-<br />
-<br />
-
