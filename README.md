@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" height="300" width="380" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" />
 
-I'm an Android Developer 👨‍💻, struggling with competitive programming, enjoying the journey :nerd_face.
+I'm an Android Developer 👨‍💻, struggling with competitive programming, enjoying the journey 🤓.
 
 ### About Me!
 
