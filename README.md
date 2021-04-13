@@ -10,7 +10,7 @@ I'm an Android Developer 👨‍💻, struggling with competitive programming, e
 
 - 🌱 I’m currently learning Flutter and Native Android 
 - 👯 I’d love to collaborate on any interesing idea or project
-- 🥅 2021 goas - Improve my skills in app development 
+- 🥅 2021 goals - Improve my development skills and contribute to as many open source projects as possible
 - 📫 Email me at [piyushpradhan3.14@gmail.com](mailto:piyushpradhan3.14@gmail.com)
 - 📃 - You can read my blogs from https://dev.to/piyushpradhan_314
 - ⚡ Fun fact: I love to play football ⚽
