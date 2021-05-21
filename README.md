@@ -4,11 +4,11 @@
 
 <img align="right" alt="GIF" height="300" width="380" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" />
 
-I'm an Android Developer 👨‍💻, struggling with competitive programming, enjoying the journey 🤓.
+I'm a Flutter Developer 👨‍💻, learning stuff and trying to make something amazing 🤓.
 
 ### About Me!
 
-- 🌱 I’m currently learning Flutter and Native Android 
+- 🌱 I’m currently learning Flutter and React
 - 👯 I’d love to collaborate on any interesing idea or project
 - 🥅 2021 goals - Improve my development skills and contribute to as many open source projects as possible
 - 📫 Email me at [piyushpradhan3.14@gmail.com](mailto:piyushpradhan3.14@gmail.com)
