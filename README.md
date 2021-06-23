@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" height="300" width="380" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" />
 
-I'm a Flutter|React Developer 👨‍💻 learning stuff and trying to make something amazing 🤓.
+I'm a Flutter | React Developer 👨‍💻 learning stuff and trying to make something amazing 🤓.
 
 ### About Me!
 
