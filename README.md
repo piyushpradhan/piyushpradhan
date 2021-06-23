@@ -4,15 +4,15 @@
 
 <img align="right" alt="GIF" height="300" width="380" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" />
 
-I'm a Flutter Developer 👨‍💻, learning stuff and trying to make something amazing 🤓.
+I'm a Flutter|React Developer 👨‍💻 learning stuff and trying to make something amazing 🤓.
 
 ### About Me!
 
 - 🌱 I’m currently learning Flutter and React
 - 👯 I’d love to collaborate on any interesing idea or project
-- 🥅 2021 goals - Improve my development skills and contribute to as many open source projects as possible
+- 🥅 2021 goals - Improve my skills and contribute to as many open source projects as possible
 - 📫 Email me at [piyushpradhan3.14@gmail.com](mailto:piyushpradhan3.14@gmail.com)
-- 📃 - You can read my blogs from https://dev.to/piyushpradhan_314
+- 📃 You can read my blogs at https://dev.to/piyushpradhan_314
 - ⚡ Fun fact: I love to play football ⚽
 
  
