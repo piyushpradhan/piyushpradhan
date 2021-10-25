@@ -4,7 +4,9 @@
 
 <img align="right" alt="GIF" height="300" width="380" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" />
 
-I'm a Pentester | Flutter Developer | React Developer learning stuff and trying to make something amazing 🤓
+I'm a Pentester | Flutter Developer | React Developer learning stuff and trying to make something interesting 🤓
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Piyush.Pradhan.png" alt="TryHackMe">
 
 ### About Me!
 
