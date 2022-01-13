@@ -6,8 +6,6 @@
 
 I'm a Pentester | Flutter Developer | React Developer learning stuff and trying to make something interesting 🤓
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Piyush.Pradhan.png" alt="TryHackMe">
-
 ### About Me!
 
 - 👨‍🎓 I'm currently learning pentesting.
