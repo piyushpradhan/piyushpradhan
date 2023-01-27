@@ -13,7 +13,7 @@ I'm a Pentester | Flutter Developer | React Developer learning stuff and trying 
 - 👯 I’d love to collaborate on any interesting idea or project
 - 🥅 2021 goals - Improve my skills and contribute to as many open source projects as possible
 - 📫 Email me at [piyushpradhan3.14@gmail.com](mailto:piyushpradhan3.14@gmail.com)
-- 📃 You can read my blogs at https://dev.to/piyushpradhan_314
+- 📃 You can read my blogs at https://medium.com/@mediocre314
 
  
  ### Tech Stack 
